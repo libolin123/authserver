@@ -7,7 +7,7 @@ import javax.persistence.MappedSuperclass;
 import java.util.Date;
 
 /**
- * @author wuweifeng wrote on 2017/10/25.
+ * @author libolin wrote on 2017/10/25.
  */
 @MappedSuperclass
 public class BaseEntity {

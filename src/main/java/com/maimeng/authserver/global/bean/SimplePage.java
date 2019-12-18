@@ -5,7 +5,7 @@ import org.springframework.data.domain.Page;
 import java.util.List;
 
 /**
- * @author wuweifeng wrote on 2017/10/26.
+ * @author libolin wrote on 2017/10/26.
  */
 public class SimplePage<T> {
     private int totalPage;

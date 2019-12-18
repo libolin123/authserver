@@ -1,7 +1,7 @@
 package com.maimeng.authserver.global.bean;
 
 /**
- * @author wuweifeng wrote on 2017/10/30.
+ * @author libolin wrote on 2017/10/30.
  */
 public class TokenExpire {
     private String token;

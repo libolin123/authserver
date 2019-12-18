@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 
 /**
- * @author wuweifeng wrote on 2018/10/30.
+ * @author libolin wrote on 2018/10/30.
  */
 @Service
 public class PtUserManager {

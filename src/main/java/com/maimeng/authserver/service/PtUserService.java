@@ -14,7 +14,7 @@ import javax.annotation.Resource;
 import java.util.List;
 
 /**
- * @author wuweifeng wrote on 2018/10/30.
+ * @author libolin wrote on 2018/10/30.
  */
 @Service
 public class PtUserService {

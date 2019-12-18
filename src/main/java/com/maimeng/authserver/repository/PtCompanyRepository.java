@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import java.util.List;
 
 /**
- * @author wuweifeng wrote on 2017/10/26.
+ * @author libolin wrote on 2017/10/26.
  */
 public interface PtCompanyRepository extends JpaRepository<PtCompany, Long>,
         JpaSpecificationExecutor<PtCompany> {

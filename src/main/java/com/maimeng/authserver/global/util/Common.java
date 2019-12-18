@@ -4,7 +4,7 @@ import com.xiaoleilu.hutool.crypto.digest.DigestUtil;
 import com.xiaoleilu.hutool.lang.Base64;
 
 /**
- * @author wuweifeng wrote on 2018/10/30.
+ * @author libolin wrote on 2018/10/30.
  */
 public class Common {
     public static String md5(String str) {

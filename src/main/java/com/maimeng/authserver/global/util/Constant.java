@@ -1,7 +1,7 @@
 package com.maimeng.authserver.global.util;
 
 /**
- * @author wuweifeng wrote on 2018/10/30.
+ * @author libolin wrote on 2018/10/30.
  */
 public interface Constant {
     String JWT_KEY_USER_ID = "userId";

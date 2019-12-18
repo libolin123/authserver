@@ -1,7 +1,7 @@
 package com.maimeng.authserver.global.bean;
 
 /**
- * @author wuweifeng wrote on 2017/10/23.
+ * @author libolin wrote on 2017/10/23.
  */
 public class BaseData {
     private int code;
